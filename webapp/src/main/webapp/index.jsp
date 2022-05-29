@@ -7,7 +7,7 @@
 
 <body>
 
-  <h1>Hi all</h1>
+  <h1>Hi</h1>
   <h2></h2>
 
 
