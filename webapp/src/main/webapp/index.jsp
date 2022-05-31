@@ -7,7 +7,7 @@
 
 <body>
 
-  <h1>I Have No Limitations</h1>
+  <h1>I Have </h1>
   <h2></h2>
 
 
